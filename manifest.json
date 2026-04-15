@@ -1,0 +1,19 @@
+{
+  "name": "Casino Barrière Menton",
+  "short_name": "Casino Barrière Menton",
+  "theme_color": "",
+  "background_color": "#111111",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1776261951-favicon-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

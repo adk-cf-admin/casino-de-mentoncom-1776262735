@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#111111",
+            "lang-select-color": "#222829",
+            "bg-light": "#111111",
+            "welcome-bonus-bg": "#111111",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#2e2e2e",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#FAA500",
+            "text-head": "#111111",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FAA500",
+            "yellow": "#ffffff",
+            "yellow-button": "#FAA500",
+            "button-text": "#111111",
+            "main-button-text": "#111111",
+            "border-color": "#efefdc",
+            "casino-cards": "#111111",
+            "bonus-border-head": "#111111",
+            "bonus-border": "#ffffff",
+            "providers-back": "#111111",
+            "faq-label": "#111111",
+            "bg-footer": "#111111",
+            "copyright": "#e7e7d5",
+            "starColor": "#FAA500",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6315"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6316",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Menton Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6317",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Menton"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino Barrière Menton",
+                    "title": "Casino Barrière Menton — Jeux & Spectacles Côte d'Azur",
+                    "description": "Jouez au Casino Barrière Menton sur la Riviera française : roulette, machines à sous, blackjack, poker. Programme VIP exclusif. Venez vivre l'expérience !",
+                    "canonical": "casino-de-menton.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6318",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-menton.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6319"
+                },
+                "hero": {
+                    "title": "Le Casino Élégant au Cœur de Menton, Côte d'Azur",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6320",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6321",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "À la recherche d'un casino de prestige sur la Côte d'Azur ? Le Casino Barrière Menton vous accueille dans un cadre élégant avec des jeux certifiés, une restauration raffinée et un service irréprochable. Voici ce qui fait de nous la référence du jeu à Menton :",
+                    "items": [
+                        "Tables de roulette, blackjack et poker dans une salle certifiée",
+                        "Machines à sous avec jackpot BONUS TIMES à gagner",
+                        "Programme fidélité Le Carré VIP : accès privilégiés & offres",
+                        "Restaurant & bar avec cocktails créatifs dans un cadre chic",
+                        "Spectacles, soirées DJ 80s et événements privés à Menton",
+                        "Jeu responsable certifié — joueurs-info-service.fr 09 74 75 13 13"
+                    ],
+                    "advantagesAfterText": "Rejoignez des milliers de joueurs qui font confiance au Casino Barrière Menton pour une soirée inoubliable sur la Riviera. Notre équipe est à votre disposition au +33 4 92 10 16 16, 7j\/7.",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino Barrière Menton App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6323",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino Barrière Menton App",
+                    "mobileGooglePlayImageTitle": "Casino Barrière Menton App",
+                    "mobileIosImageTitle": "Casino Barrière Menton App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du Casino Barrière Menton",
+                        "description1": "Situé au cœur de Menton, sur la magnifique Côte d'Azur, le Casino Barrière Menton est une adresse incontournable de la Riviera française. Nous proposons une expérience de jeu premium dans un cadre élégant, certifié et réglementé.",
+                        "items": [
+                            "Intégration au Groupe Barrière, leader du casino en France",
+                            "Lancement du programme de fidélité Le Carré VIP",
+                            "Ouverture du restaurant gastronomique et du bar cocktails",
+                            "Installation des machines à sous avec jackpot BONUS TIMES"
+                        ],
+                        "description2": "Nous opérons sous la réglementation stricte française des jeux (ANJ — Autorité Nationale des Jeux). Notre établissement applique le chiffrement SSL et des protocoles de sécurité avancés pour protéger chaque visite et transaction de nos membres.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6322",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Nous élargissons continuellement notre offre de jeux et d'animations pour les joueurs de la Côte d'Azur. Notre engagement envers le jeu responsable reste notre priorité absolue. Venez nous rendre visite à Menton et vivez une soirée d'exception !"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Jeux & Ambiance au Casino de Menton",
+                        "description": "<h2>Découvrez l'Univers de Jeux du Casino Barrière Menton sur la Côte d'Azur<\/h2>\n\n<p>Notre Casino Barrière Menton vous accueille dans un établissement de jeux d'exception, niché au cœur de la ville de Menton, à deux pas de la frontière italienne et des paysages enchanteurs de la Riviera française. Que vous soyez passionné de roulette, amateur de machines à sous ou stratège du blackjack, notre salle de jeux propose une sélection complète d'activités certifiées et réglementées par l'ANJ (Autorité Nationale des Jeux). Nous accueillons chaque soir une clientèle raffinée en quête d'émotions fortes, de divertissements haut de gamme et d'une atmosphère unique propre à la Côte d'Azur. Notre gaming floor allie tradition du jeu à la française et modernité technologique, pour offrir à chaque joueur une expérience personnalisée, sécurisée et mémorable.<\/p>\n\n<h3>La Roulette : La Reine des Jeux de Table à Menton<\/h3>\n<p>La roulette est au cœur de notre offre de jeux de table. Nous proposons plusieurs variantes de ce jeu emblématique, dont la roulette française avec la règle de la partage, qui offre un taux de retour joueur (RTP) parmi les plus avantageux du secteur. Nos croupiers professionnels, formés aux standards du Groupe Barrière, animent des tables dans une ambiance chaleureuse et sophistiquée. Les mises s'échelonnent pour s'adapter à tous les profils de joueurs, des débutants curieux aux habitués expérimentés de la Riviera. Chaque session en roulette est l'occasion de vivre l'essence même du jeu de casino à la française, dans un décor raffiné de Menton, Côte d'Azur.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Française :<\/strong> La version classique avec la règle « en prison » et « partage », offrant un avantage maison réduit à 1,35 % sur les mises simples — la plus avantageuse pour les joueurs de Menton et de la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Européenne :<\/strong> Avec une seule case zéro pour un RTP de 97,3 %, idéale pour les joueurs intermédiaires souhaitant maîtriser les systèmes de mise comme Martingale ou Fibonacci.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tables à mises multiples :<\/strong> Nous proposons des tables adaptées à différents budgets, permettant une accessibilité maximale à nos membres Le Carré VIP comme aux nouveaux visiteurs de la Riviera française.<\/li>\n<\/ul>\n\n<h3>Blackjack & Poker : L'Art de la Stratégie dans nos Salles de Jeux<\/h3>\n<p>Pour les amateurs de jeux de cartes, notre casino terrestre de Menton propose un large éventail de variantes de blackjack et de poker. Le blackjack classique, avec un RTP atteignant 99,5 % lorsqu'on applique la stratégie de base, est l'un de nos jeux de table les plus prisés. Nos croupiers diplômés animent chaque partie avec professionnalisme et courtoisie, créant une atmosphère propice à la concentration et au plaisir. Le poker, quant à lui, est décliné en plusieurs formats adaptés aussi bien aux novices qu'aux joueurs aguerris des Alpes-Maritimes. Chaque soirée poker dans notre établissement est un rendez-vous incontournable pour les résidents de Menton et les visiteurs de la Côte d'Azur.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Classique :<\/strong> RTP jusqu'à 99,5 % avec stratégie optimale. Tables animées par des croupiers formés au standard Barrière, dans une ambiance élégante typique du casino de la Riviera.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Poker Cash Game :<\/strong> Sessions régulières de Texas Hold'em avec des mises adaptées à tous les niveaux. Idéal pour les résidents de Menton, Monaco et des Alpes-Maritimes souhaitant perfectionner leur technique.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tournois de Poker :<\/strong> Nous organisons régulièrement des compétitions avec buy-ins accessibles et des prize pools attractifs, ouverts aux membres Le Carré VIP comme aux joueurs occasionnels de la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Variantes exclusives :<\/strong> Caribbean Stud, Punto Banco et autres jeux de cartes enrichissent notre offre, pour garantir une expérience de gaming floor complète et diversifiée dans notre établissement de Menton.<\/li>\n<\/ul>\n\n<h3>Machines à Sous & Jackpots : Tentez Votre Chance à Menton<\/h3>\n<p>Notre salle de machines à sous est l'une des plus modernes de la Côte d'Azur. Nous proposons un large parc de machines certifiées, incluant des titres à jackpots progressifs comme le célèbre BONUS TIMES — actuellement disponible dans notre casino de Menton. Les machines à sous électroniques offrent des RTP compris entre 85 % et 98 %, selon les titres, avec des mises débutant à quelques centimes pour s'adapter à tous les budgets. Les membres de notre programme Le Carré VIP bénéficient d'un BONUSING X5 tous les jeudis en jouant aux machines à sous, multipliant ainsi leurs chances de décrocher un jackpot. Nos techniciens certifiés assurent la maintenance régulière de chaque appareil pour garantir le bon fonctionnement et l'équité des jeux à Menton.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpot BONUS TIMES :<\/strong> Notre jackpot phare disponible exclusivement dans notre casino de Menton, avec des gains cumulatifs attractifs et des tirages réguliers. Un rendez-vous incontournable pour les amateurs de sensations fortes sur la Riviera.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>BONUSING X5 Les Jeudis :<\/strong> Chaque jeudi, nos membres Le Carré VIP multiplient leurs points par 5 en jouant aux machines à sous. Une promotion exclusive pour fidéliser nos joueurs de Menton et des Alpes-Maritimes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Parc de machines varié :<\/strong> Vidéo poker, machines à rouleaux classiques, slots thématiques et jeux à bonus intégrés composent un catalogue riche pour tous les styles de joueurs, des novices aux habitués du casino terrestre.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Machines certifiées ANJ :<\/strong> Toutes nos machines à sous sont homologuées par l'Autorité Nationale des Jeux française, garantissant des RTP conformes à la réglementation et une équité totale pour chaque joueur visitant notre établissement.<\/li>\n<\/ul>\n\n<h3>Quel jeu choisir lors de votre visite au Casino Barrière Menton ?<\/h3>\n<p>Vous hésitez entre les jeux de table et les machines à sous ? Notre équipe d'hôtes et d'hôtesses est présente en permanence sur le gaming floor de notre casino de Menton pour vous guider et vous conseiller selon votre budget et vos préférences. Les débutants trouveront dans nos sessions d'initiation un cadre bienveillant pour découvrir la roulette ou le blackjack sans pression. Les joueurs expérimentés apprécieront la qualité et la diversité de nos tables, animées par des croupiers professionnels issus des meilleures écoles de jeu. Quelle que soit votre expérience, notre casino terrestre sur la Côte d'Azur saura répondre à vos attentes.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #efa00b;\">\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Jeu<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Type<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #111111;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Roulette Française<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">98,65 %<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Blackjack Classique<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">99,5 %<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #111111;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Poker Texas Hold'em<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">97,0 %<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Machines à sous<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">85–98 %<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Électronique<\/td>\n    <\/tr>\n    <tr style=\"background-color: #111111;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Jackpot BONUS TIMES<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Progressif<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Électronique<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Vidéo Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">99,5 %<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Électronique<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Spectacles & Soirées Thématiques : Le Divertissement au Casino de Menton<\/h3>\n<p>Au-delà des jeux, notre Casino Barrière Menton se distingue par une programmation artistique et festive unique sur la Riviera française. Chaque mois, nous proposons des spectacles variés, des soirées thématiques et des animations qui transforment votre visite en une soirée mémorable. Notre rendez-vous bi-mensuel « Génération 80 » fait danser nos visiteurs sur les plus grands succès des années 80 à 2000, animé par un DJ professionnel dans une ambiance conviviale et électrisante. Les mois de mars et d'avril sont particulièrement riches en festivités, avec un programme spécialement conçu pour égayer les soirées de Menton et des Alpes-Maritimes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Soirée Génération 80 :<\/strong> Un rendez-vous bi-mensuel incontournable dans notre casino de Menton. DJ professionnel, ambiance festive et tubes légendaires des années 80 à 2000 pour une soirée nostalgie inoubliable sur la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Programme mensuel d'événements :<\/strong> Chaque mois, notre établissement propose un calendrier riche en animations, spectacles vivants, concerts et soirées à thème, accessibles à tous nos membres et visiteurs de la Riviera française.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Réceptions & Événements privés :<\/strong> Notre casino terrestre de Menton met ses espaces à disposition pour anniversaires, mariages, réceptions d'entreprise et événements privés — une adresse prestigieuse sur la Côte d'Azur pour marquer les occasions importantes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Concours & Dotations :<\/strong> Régulièrement, nous organisons des tirages au sort et concours exclusifs — comme la Jeep Avenger à gagner en avril — pour récompenser notre fidèle clientèle de Menton et des Alpes-Maritimes.<\/li>\n<\/ul>\n\n<p>Venez découvrir pourquoi le Casino Barrière Menton est le rendez-vous incontournable du divertissement haut de gamme sur la Riviera française. Que vous veniez pour jouer, dîner, assister à un spectacle ou simplement profiter de l'ambiance élégante de notre établissement, nous mettons tout en œuvre pour que chaque soirée à Menton soit une expérience unique. Contactez-nous au +33 4 92 10 16 16 ou venez nous rendre visite au 2 bis Avenue Félix Faure, 06500 Menton.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "VIP, Restaurant & Jeu Responsable à Menton",
+                        "description": "<h2>Programme Le Carré VIP, Restauration & Jeu Responsable au Casino Barrière Menton<\/h2>\n\n<p>Notre Casino Barrière Menton ne se résume pas à une simple salle de jeux : c'est un lieu de vie complet sur la Côte d'Azur, où l'excellence du service, la gastronomie raffinée et l'engagement envers le jeu responsable se combinent pour offrir une expérience holistique et inoubliable. Que vous soyez membre VIP de longue date ou premier visiteur de notre établissement de Menton, vous bénéficierez d'un accueil chaleureux, d'une restauration de qualité et d'un accompagnement personnalisé tout au long de votre soirée. Notre Groupe Barrière, référence du casino terrestre en France, garantit des standards élevés à chaque étape de votre visite, des Alpes-Maritimes à toute la Riviera française.<\/p>\n\n<h3>Le Programme Le Carré VIP : Profitez d'Avantages Exclusifs à Menton<\/h3>\n<p>Notre programme de fidélité Le Carré VIP est conçu pour récompenser nos joueurs les plus fidèles du Casino Barrière Menton. En tant que membre, vous accédez à un univers de privilèges exclusifs qui transforment chaque visite en une expérience premium sur la Côte d'Azur. L'inscription est gratuite et immédiate, et dès votre première soirée de jeu, vous commencez à accumuler des points convertibles en avantages concrets. Le programme est structuré en plusieurs niveaux, offrant des bénéfices croissants selon votre activité dans notre établissement. Chaque jeudi, les membres Le Carré VIP bénéficient du BONUSING X5 sur les machines à sous, une opportunité unique de maximiser vos gains lors de votre passage à Menton.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Accès Privilégié :<\/strong> En tant que membre Le Carré VIP de notre casino de Menton, vous bénéficiez d'un accès prioritaire aux événements exclusifs, aux soirées privées et aux nouvelles animations sur la Riviera française avant leur ouverture au grand public.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>BONUSING X5 Jeudis :<\/strong> Chaque jeudi, jouez aux machines à sous avec votre carte Le Carré VIP et multipliez vos points par 5. Un avantage exclusif réservé à nos membres fidèles de Menton et des Alpes-Maritimes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Invitations à des événements privés :<\/strong> Concerts exclusifs, dîners VIP, soirées de gala et avant-premières — notre programme Le Carré VIP vous ouvre les portes d'un monde d'événements exceptionnels sur la Côte d'Azur et au-delà.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Offres spéciales personnalisées :<\/strong> Réductions sur la restauration, offres d'entrée gratuites, cadeaux de bienvenue et promotions dédiées adaptées à votre profil de joueur dans notre établissement de Menton.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Réseau Groupe Barrière :<\/strong> Votre carte Le Carré VIP est valable dans l'ensemble des casinos du Groupe Barrière en France, vous permettant de bénéficier de vos avantages dans tous nos établissements partenaires de la Riviera et au-delà.<\/li>\n<\/ul>\n\n<h3>Restaurant & Bar : La Gastronomie au Cœur du Casino de Menton<\/h3>\n<p>Notre restaurant et notre bar constituent l'un des atouts majeurs du Casino Barrière Menton. Dans un cadre élégant digne de la Riviera française, notre brigade de cuisine propose des plats raffinés élaborés avec des produits frais et locaux des Alpes-Maritimes. Les saveurs méditerranéennes sont à l'honneur, avec des créations qui célèbrent le terroir de la Côte d'Azur et les influences italiennes propres à Menton, ville frontalière réputée pour ses citrons et sa cuisine de caractère. Que vous souhaitiez dîner avant de rejoindre les tables de jeux ou savourer un cocktail créatif entre deux parties, notre équipe de restauration se tient prête à vous satisfaire.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cuisine gastronomique méditerranéenne :<\/strong> Notre chef élabore des menus inspirés des saveurs de la Côte d'Azur, valorisant les produits locaux des Alpes-Maritimes et les spécialités de Menton, ville réputée pour ses citrons AOC et sa gastronomie aux influences franco-italiennes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bar à cocktails créatifs :<\/strong> Notre barman compose des cocktails signature inspirés de la Riviera française, avec une sélection de spiritueux premium, de vins de la région Provence-Alpes-Côte d'Azur et de champagnes pour célébrer vos victoires à Menton.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cadre élégant & atmosphère festive :<\/strong> Notre salle de restaurant et notre espace bar offrent une vue magnifique et une décoration soignée, parfaits pour un dîner romantique, un repas d'affaires ou une pause gourmande lors de votre soirée dans notre casino terrestre de Menton.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Offres membres VIP :<\/strong> Les détenteurs de la carte Le Carré VIP bénéficient de réductions et d'avantages exclusifs au restaurant et au bar de notre casino de Menton, pour une expérience gastronomique encore plus accessible et valorisante.<\/li>\n<\/ul>\n\n<h3>Comment devenir membre Le Carré VIP au Casino Barrière Menton ?<\/h3>\n<p>Rejoindre le programme Le Carré VIP de notre casino de Menton est simple et gratuit. Il vous suffit de vous présenter à notre accueil avec une pièce d'identité valide, remplir le formulaire d'inscription en quelques minutes, et votre carte de membre vous sera remise immédiatement. Dès votre première soirée de jeu à Menton, vous commencerez à accumuler des points et à bénéficier des avantages exclusifs du programme. Notre personnel d'accueil, disponible à l'établissement du 2 bis Avenue Félix Faure à Menton, est à votre disposition pour vous guider dans les différents niveaux du programme et maximiser vos privilèges sur la Côte d'Azur.<\/p>\n\n<h3>Notre Engagement envers le Jeu Responsable sur la Côte d'Azur<\/h3>\n<p>Au Casino Barrière Menton, nous considérons que jouer est une liberté qui doit rester un plaisir. Conformément à la réglementation de l'ANJ (Autorité Nationale des Jeux), notre établissement met en place des outils concrets pour accompagner chaque joueur vers une pratique responsable. Notre équipe est formée pour détecter les signes de comportements à risque et propose un soutien discret et bienveillant à toute personne qui en aurait besoin sur la Riviera française. Nous respectons scrupuleusement les obligations légales en matière de jeu responsable, notamment la vérification de l'âge (18 ans minimum obligatoire), la mise en place d'auto-exclusions et la limitation volontaire des mises pour nos joueurs de Menton et des Alpes-Maritimes.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #efa00b;\">\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Outil<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Description<\/th>\n      <th style=\"border: 1px solid #333333; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Contact<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #111111;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Auto-exclusion<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Exclusion volontaire temporaire ou définitive<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Accueil casino<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Limite de mises<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Plafonnement volontaire des dépenses<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Sur demande<\/td>\n    <\/tr>\n    <tr style=\"background-color: #111111;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Joueurs Info Service<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Ligne d'écoute nationale 09 74 75 13 13<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">joueurs-info-service.fr<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Contrôle d'accès<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Vérification d'identité et âge minimum 18 ans<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">À l'entrée<\/td>\n    <\/tr>\n    <tr style=\"background-color: #111111;\">\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\"><strong>Démarche RSE<\/strong><\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Programme Planète Barrière — enjeux sociaux & environnementaux<\/td>\n      <td style=\"border: 1px solid #333333; padding: 8px; color: #ffffff;\">Site Barrière<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Joueurs Info Service :<\/strong> Notre casino de Menton affiche et relaie systématiquement le numéro national d'aide aux joueurs : 09 74 75 13 13 (appel non surtaxé, disponible 7j\/7). Vous pouvez également consulter joueurs-info-service.fr pour accéder à des ressources d'aide et de soutien.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Démarche RSE — Planète Barrière :<\/strong> En tant qu'établissement du Groupe Barrière, notre casino de Menton s'inscrit dans la démarche RSE « Planète Barrière », qui intègre des objectifs environnementaux et sociétaux dans tous nos métiers sur la Côte d'Azur.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Formation du personnel :<\/strong> Tous nos employés du casino terrestre de Menton reçoivent une formation continue aux bonnes pratiques du jeu responsable, pour être en mesure d'identifier et d'accompagner tout joueur en difficulté avec bienveillance et discrétion.<\/li>\n<\/ul>\n\n<p>Nous vous invitons à découvrir toute l'offre unique du Casino Barrière Menton : jeux certifiés, programme VIP Le Carré VIP, restaurant gastronomique et divertissements d'exception. Venez vivre une soirée mémorable sur la Riviera française au 2 bis Avenue Félix Faure, Menton (06500). Pour toute réservation ou renseignement, contactez-nous au <strong>+33 4 92 10 16 16<\/strong>.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Comment rejoindre le programme Le Carré VIP à Menton ?",
+                            "answer": "Pour rejoindre Le Carré VIP, présentez-vous à l'accueil du Casino Barrière Menton avec une pièce d'identité valide. L'inscription est gratuite et immédiate au 2 bis Avenue Félix Faure, Menton. Vous commencerez à cumuler des points dès votre première soirée de jeu sur la Côte d'Azur."
+                        },
+                        {
+                            "title": "Quels jeux sont disponibles au Casino Barrière Menton ?",
+                            "answer": "Notre casino de Menton propose roulette française, blackjack, poker Texas Hold'em, machines à sous et le jackpot progressif BONUS TIMES. Tous nos jeux sont homologués par l'ANJ (Autorité Nationale des Jeux). Nos croupiers certifiés animent les tables 7 jours sur 7 sur la Côte d'Azur."
+                        },
+                        {
+                            "title": "Le casino de Menton est-il ouvert tous les jours ?",
+                            "answer": "Oui, le Casino Barrière Menton accueille ses visiteurs tous les jours de la semaine. Pour connaître les horaires précis et les événements du moment, contactez-nous directement au +33 4 92 10 16 16 ou rendez-vous au 2 bis Avenue Félix Faure, 06500 Menton, Côte d'Azur."
+                        },
+                        {
+                            "title": "Comment fonctionne le BONUSING X5 du jeudi à Menton ?",
+                            "answer": "Chaque jeudi, les membres Le Carré VIP du Casino Barrière Menton multiplient leurs points par 5 en jouant aux machines à sous avec leur carte de fidélité. C'est une promotion exclusive disponible uniquement dans notre établissement de Menton, Alpes-Maritimes. Inscription gratuite à l'accueil."
+                        },
+                        {
+                            "title": "Puis-je organiser un événement privé au Casino de Menton ?",
+                            "answer": "Oui, notre Casino Barrière Menton met ses espaces à disposition pour anniversaires, mariages, réceptions d'entreprise et événements privés sur la Côte d'Azur. Pour une demande de devis, contactez notre équipe événementielle au +33 4 92 10 16 16 ou par email à lbotcazou@groupebarriere.com."
+                        },
+                        {
+                            "title": "Comment obtenir de l'aide si le jeu devient problématique ?",
+                            "answer": "Si vous ressentez une dépendance au jeu, appelez gratuitement le 09 74 75 13 13 (Joueurs Info Service, appel non surtaxé, 7j\/7) ou consultez joueurs-info-service.fr. Notre équipe au Casino Barrière Menton peut également vous accompagner avec des outils d'auto-exclusion et de limitation des mises."
+                        },
+                        {
+                            "title": "Y a-t-il un restaurant au Casino Barrière Menton ?",
+                            "answer": "Oui, notre casino de Menton dispose d'un restaurant gastronomique et d'un bar à cocktails créatifs. Nous proposons des plats raffinés aux saveurs méditerranéennes de la Côte d'Azur dans un cadre élégant. Les membres Le Carré VIP bénéficient d'offres spéciales sur la restauration. Réservation au +33 4 92 10 16 16."
+                        },
+                        {
+                            "title": "Où se trouve le Casino Barrière Menton exactement ?",
+                            "answer": "Notre casino est situé au 2 bis Avenue Félix Faure, 06500 Menton, sur la magnifique Côte d'Azur, à proximité de Monaco et de la frontière italienne. Vous pouvez nous contacter au +33 4 92 10 16 16 pour obtenir un itinéraire personnalisé ou consulter notre page officielle pour accéder au plan."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
